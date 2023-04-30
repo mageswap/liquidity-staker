@@ -1,5 +1,5 @@
 {
-  "name": "@uniswap/liquidity-staker",
+  "name": "@mageswap/liquidity-staker",
   "version": "1.0.2",
   "author": "Noah Zinsmeister",
   "repository": {
@@ -26,7 +26,7 @@
   "devDependencies": {
     "@types/chai": "^4.2.12",
     "@types/mocha": "^8.0.3",
-    "@uniswap/v2-core": "^1.0.1",
+    "@mageswap/v2-core": "github:mageswap/v2-core",
     "chai": "^4.2.0",
     "ethereum-waffle": "^3.1.0",
     "ethereumjs-util": "^7.0.5",

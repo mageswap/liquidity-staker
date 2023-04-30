@@ -4,7 +4,7 @@ import { solidity, deployContract } from 'ethereum-waffle'
 
 import { expandTo18Decimals } from './utils'
 
-import UniswapV2ERC20 from '@uniswap/v2-core/build/ERC20.json'
+import UniswapV2ERC20 from '@mageswap/v2-core/build/ERC20.json'
 import TestERC20 from '../build/TestERC20.json'
 import StakingRewards from '../build/StakingRewards.json'
 import StakingRewardsFactory from '../build/StakingRewardsFactory.json'
